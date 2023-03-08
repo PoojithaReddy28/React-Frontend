@@ -27,6 +27,7 @@ const getAdminBoard = () => {
 };
 
 const UserService = {
+  getPublicContent,
   getUserBoard,
   getEditorBoard,
   getSupervisorBoard,

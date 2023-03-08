@@ -86,3 +86,5 @@ const authSlice = createSlice({
 
 const { reducer } = authSlice;
 export default reducer;
+
+//this file imports AuthService and makes asynchronous HTTP requests for register, login and logout

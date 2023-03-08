@@ -35,3 +35,5 @@ const UserService = {
 };
 
 export default UserService;
+
+// retrieves protected routes data
